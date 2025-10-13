@@ -1,93 +1,108 @@
 # 📘 Lesson Plan  
-## Machine Learning for Public Health  
+## Programming in Python with Full Stack Development  
 
 ---
 
-### Module 1: Introduction to Machine Learning  
+### Module 1: Python Fundamentals  
 
-**Lesson 1:** Course Introduction, Importance of Machine Learning in Public Health  
-**Lesson 2:** Machine Learning Terminologies and Key Concepts  
-**Lesson 3:** Types of Machine Learning – Supervised, Unsupervised, Reinforcement  
-**Lesson 4:** Applications of ML in Healthcare and Public Health Analytics  
-**Lesson 5:** Overview of ML Tools and Libraries – Python, Scikit-learn, TensorFlow, Keras, PyTorch  
-**Lesson 6:** Machine Learning Workflow – Data Collection to Model Deployment  
-**Lesson 7:** Ethical Considerations and Data Governance in Health ML  
-
----
-
-### Module 2: Machine Learning Frameworks in Healthcare  
-
-**Lesson 8:** Introduction to ML Frameworks and Their Role in Healthcare  
-**Lesson 9:** Comparison of Popular Frameworks – TensorFlow, PyTorch, Scikit-learn, Keras  
-**Lesson 10:** Installation and Environment Setup for ML Frameworks  
-**Lesson 11:** Data Preprocessing for Healthcare Datasets – Cleaning, Normalization, Encoding  
-**Lesson 12:** Handling Imbalanced and Noisy Medical Data  
-**Lesson 13:** Integration of ML Frameworks with Electronic Health Records (EHR)  
+    Lesson 1: Course Introduction, Python Setup, IDE Installation  
+    Lesson 2: Data Types, Variables, and Operators  
+    Lesson 3: Control Structures – Conditionals and Loops  
+    Lesson 4: Working with Strings and Lists  
+    Lesson 5: Sets, Tuples, and Dictionaries  
+    Lesson 6: Lab – Basic Programs (Temperature Converter, Palindrome, Factorial, Sorting)
 
 ---
 
-### Module 3: Scikit-learn for Healthcare Analytics  
+### Module 2: Functions, OOP, and File Handling  
 
-**Lesson 14:** Introduction to Scikit-learn – Concepts and Features  
-**Lesson 15:** Classification using Naïve Bayes – Disease Prediction  
-**Lesson 16:** K-Nearest Neighbors (KNN) – Patient Categorization  
-**Lesson 17:** Support Vector Machines (SVM) – Health Parameter Classification  
-**Lesson 18:** Linear Regression – Predicting BMI or Health Metrics  
-**Lesson 19:** Random Forest – Disease Likelihood Prediction  
-**Lesson 20:** Clustering and Dimensionality Reduction – Patient Segmentation  
+    Lesson 7: Functions and Scope in Python  
+    Lesson 8: Classes, Objects, and Constructors  
+    Lesson 9: Inheritance, Polymorphism, and Encapsulation  
+    Lesson 10: Exception Handling and File I/O Operations  
+    Lesson 11: Lab – OOP & File Projects (Bank System, School Management, CSV Reader)
 
 ---
 
-### Module 4: TensorFlow for Public Health Applications  
+### Module 3: Modules, Packages, and Database Integration  
 
-**Lesson 21:** Installation and Setup of TensorFlow  
-**Lesson 22:** TensorFlow Basics – Tensors, Operations, and Variables  
-**Lesson 23:** Data Preprocessing and Pipeline Creation in TensorFlow  
-**Lesson 24:** Implementing Linear Regression in TensorFlow  
-**Lesson 25:** Building Neural Networks for Disease Prediction  
-**Lesson 26:** Model Evaluation Metrics – Accuracy, Precision, Recall, F1-Score  
-**Lesson 27:** Regularization and Overfitting Solutions in TensorFlow  
+    Lesson 12: Working with Modules and Packages  
+    Lesson 13: Popular Python Libraries (NumPy, Pandas, Flask Overview)  
+    Lesson 14: IDE Usage and Git Integration (PyCharm, Version Control)  
+    Lesson 15: Database Connectivity – MySQL, MongoDB CRUD Operations  
+    Lesson 16: Lab – Database Integration with PyCharm and PyTests  
 
 ---
 
-### Module 5: PyTorch for Medical Data Analysis  
+### Module 4: Flask Framework  
 
-**Lesson 28:** Introduction to PyTorch and Its Features  
-**Lesson 29:** Data Loading and Preprocessing using PyTorch  
-**Lesson 30:** Building and Training Neural Networks in PyTorch  
-**Lesson 31:** Backpropagation and Optimization Techniques  
-**Lesson 32:** Model Evaluation and Performance Tuning  
-**Lesson 33:** Transfer Learning for Medical Imaging and Diagnostics  
-**Lesson 34:** Saving, Loading, and Deploying PyTorch Models  
+    Lesson 17: Introduction to Flask, App Creation, and Routing  
+    Lesson 18: URL Building and HTTP Methods (GET, POST)  
+    Lesson 19: Templates and Static Files (Jinja2, HTML Integration)  
+    Lesson 20: Handling Forms and Form Validation in Flask  
+    Lesson 21: Flask Database Connectivity – SQLite3, MySQL  
+    Lesson 22: Authentication and User Management using Flask-Login  
+    Lesson 23: Deploying Flask Applications to Web Servers  
+    Lesson 24: Lab – Flask Mini Project (CRUD Web Application)
 
 ---
 
-### 🧩 Module 6: Future of AI in Public Health  
+### Module 5: Django Framework  
 
-**Lesson 35:** AI in Disease Prediction and Early Diagnosis  
-**Lesson 36:** Personalized Medicine and AI-Based Treatment Planning  
-**Lesson 37:** AI for Epidemic Forecasting and Public Health Surveillance  
-**Lesson 38:** AI in Mental Health and Well-Being Monitoring  
-**Lesson 39:** Ethical Challenges, Bias, and Transparency in Healthcare AI  
-**Lesson 40:** Future Trends, Emerging Technologies, and Capstone Project Review  
+    Lesson 25: Introduction to Django and Project Setup  
+    Lesson 26: Django Apps, Models, and Views  
+    Lesson 27: URL Mapping and Template System  
+    Lesson 28: Django ORM and Admin Interface  
+    Lesson 29: Static and Media Files, Form Processing  
+    Lesson 30: Authentication, Sessions, and Middleware in Django  
+    Lesson 31: Django App Deployment (Heroku, Render, or Localhost)  
+    Lesson 32: Lab – Django Project (Blog or E-Commerce Mini App)
+
+---
+
+### Module 6: RESTful APIs  
+
+    Lesson 33: Introduction to REST Architecture and HTTP Protocol  
+    Lesson 34: Building RESTful APIs with Flask and Django  
+    Lesson 35: API Authentication using JWT Tokens  
+    Lesson 36: Pagination, Data Validation, and Error Handling  
+    Lesson 37: Consuming APIs using Postman and Python Requests  
+    Lesson 38: Lab – REST API Project (CRUD API with Flask/Django REST)
+
+---
+
+### Module 7: AJAX, Integration, and Advanced Topics  
+
+    Lesson 39: Introduction to AJAX and Asynchronous Requests  
+    Lesson 40: Implementing AJAX in Django for Dynamic Updates  
+    Lesson 41: Debugging and Error Handling in Full Stack Applications  
+    Lesson 42: Lab – AJAX and API Integration Project (Dynamic Dashboard)
+
+---
+
+### Module 8: Capstone Project and Assessment  
+
+    Lesson 43: Project Planning and Requirement Analysis  
+    Lesson 44: Full Stack Project Implementation and Testing  
+    Lesson 45: Final Project Presentation, Review, and Feedback  
 
 ---
 
 ## 🧪 Lab Problem Highlights  
 
-**Lab 1:** Install Python, Jupyter Notebook, and core ML libraries (TensorFlow, Scikit-learn, Pandas)  
-**Lab 2:** Use Naïve Bayes to classify diseases based on medical attributes  
-**Lab 3:** Apply KNN to categorize patients into disease groups using health symptoms  
-**Lab 4:** Develop an SVM Classifier to predict disease presence from health parameters  
-**Lab 5:** Build a Linear Regression model to predict health parameters (e.g., BMI, blood pressure)  
-**Lab 6:** Perform K-Means Clustering for patient segmentation based on clinical data  
-**Lab 7:** Implement Random Forest for disease likelihood prediction using patient history  
-**Lab 8:** Compare model performance (accuracy, recall, F1-score) across ML algorithms  
-**Lab 9:** Train a Neural Network in TensorFlow for disease prediction  
-**Lab 10:** Build and train a Neural Network in PyTorch for health data analysis  
-**Lab 11:** Implement Transfer Learning for a small medical imaging dataset  
-**Lab 12:** Develop a Mini Project – Predictive ML model for disease or health monitoring application  
+| 💻 Lab No. | 🔧 Problem Statement |
+| ---------- | -------------------- |
+| 1 | Write Python programs for basic data manipulation (e.g., temperature conversion, palindrome check, factorial). |
+| 2 | Implement OOP concepts with classes, inheritance, and file handling. |
+| 3 | Connect Python to MySQL and MongoDB to perform CRUD operations. |
+| 4 | Build a basic Flask web app with routing and templates. |
+| 5 | Develop a Flask app with database integration and user authentication. |
+| 6 | Create a Django project with apps, models, templates, and views. |
+| 7 | Add authentication and deployment setup for a Django app. |
+| 8 | Design and implement RESTful APIs with Flask or Django REST Framework. |
+| 9 | Use AJAX in Django for asynchronous page updates. |
+| 10 | Develop a Full Stack Capstone Project combining Flask/Django, REST APIs, and AJAX. |
 
 ---
 
-📄 *This 40-lesson plan integrates theory and labs to equip students with the skills to apply Machine Learning techniques in public health analytics, disease prediction, and AI-driven healthcare decision-making.*
+📄 *This 45-lesson plan integrates*
