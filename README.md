@@ -105,4 +105,3 @@
 
 ---
 
-📄 *This 45-lesson plan integrates*
